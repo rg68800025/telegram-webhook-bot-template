@@ -1,7 +1,3 @@
-Sure! Here’s a project description for a template that sets up a Telegram bot with webhook functionality using Flask, PyTelegramBotAPI, and PyMongo:
-
----
-
 ## Project Overview
 
 This project provides a robust template for creating a Telegram bot with webhook functionality. Utilizing the Flask web framework, the PyTelegramBotAPI library for interacting with the Telegram Bot API, and PyMongo for MongoDB database integration, this template offers a solid foundation for building and deploying a Telegram bot capable of handling real-time updates and data storage.
